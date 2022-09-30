@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group>
+    <student firstname="Danila" groupnumber="1" lastname="Berdnikov">
+        <subject mark="1.0" title="Math"/>
+        <subject mark="2.0" title="Math"/>
+        <subject mark="5.0" title="Physics"/>
+        <average>3.25</average>
+    </student>
+    <student firstname="Vladimir" groupnumber="1" lastname="Putin">
+        <subject mark="1.0" title="Math"/>
+        <subject mark="1.0" title="Math"/>
+        <subject mark="3.0" title="Physics"/>
+        <average>2.0</average>
+    </student>
+</group>
